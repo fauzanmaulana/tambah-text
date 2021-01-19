@@ -30,7 +30,7 @@ func printText(texts ...string) {
 
 func main() {
 	// define slice
-	var text = []string{"aji", "anggar", "bimo", "rifat", "faris"}
+	var text = []string{"fauzan maulana"}
 	var newText []string
 
 	for run {
